@@ -1,6 +1,6 @@
 👋 Hi, I’m Ratnesh Mishra
-👀 I’m interested in Cloud Computing, Python, Penetration Testing
-🌱 I’m currently learning Cloud Computing
+👀 I’m interested in MERN Stack, JavaScript, Penetration Testing
+🌱 I’m currently learning DSA
 💞️ I’m looking to collaborate on ...
 📫 How to reach me : ratneshmishrarulz@gmail.com
 
