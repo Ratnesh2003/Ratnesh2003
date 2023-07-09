@@ -46,10 +46,8 @@
 <p align="left">
 <code>
   
-  <code> <img height="50" src="./images/java-icon.svg"></code>
-  <code> <img height="50" src="./springio-icon.svg"></code>
-  <code> <img height="50" src="./mysql-icon.svg"></code>
-  <code> <img height="50" src="./postgresql-icon.svg"></code>
+  <code> <img height="50" src="./images/java-icon.svg"></code><code> <img height="50" src="./springio-icon.svg"></code>
+  <code> <img height="50" src="./mysql-icon.svg"></code><code> <img height="50" src="./postgresql-icon.svg"></code>
   <code> <img height="50" src="./amazon_aws-icon.svg"></code>
   <code> <img height="50" src="./docker-icon.svg"></code>
   <code> <img height="50" src="./kubernetes-icon.svg"></code>
@@ -72,9 +70,7 @@
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/><img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/><img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
