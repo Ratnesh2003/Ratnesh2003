@@ -40,47 +40,24 @@
 ✔ I use to write coad on [codeforces](https://codeforces.com/profile/ratneshmishrarulz) <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
- 
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
-<p align="left">
-<code>
-  
-  <code> <img height="50" src="./images/java-icon.svg"></code>
-  <code> <img height="50" src="./images/springio-icon.svg"></code>
-  <code> <img height="50" src="./images/mysql-icon.svg"></code>
-  <code> <img height="50" src="./images/postgresql-icon.svg"></code>
-  <code> <img height="50" src="./images/amazon_aws-icon.svg"></code>
-  <code> <img height="50" src="./images/docker-icon.svg"></code>
-  <code> <img height="50" src="./images/kubernetes-icon.svg"></code>
-  <code> <img height="50" src="./images/git-scm-icon.svg"></code>
-  <code> <img height="50" src="./images/w3_html5-icon.svg"></code>
-  <code> <img height="50" src="./images/w3_css-icon.svg"></code>
-  <code> <img height="50" src="./images/nodejs-icon.svg"></code>
-  <code> <img height="50" src="./images/reactjs-icon.svg"></code>
-  <code> <img height="50" src="./images/mongodb-icon.svg"></code>
-  <hr>
-  <p align="center">
+|<img height="50" src="./images/java-icon.svg">|<img height="50" src="./images/springio-icon.svg">|<img height="50" src="./images/mysql-icon.svg">|<img height="50" src="./images/postgresql-icon.svg">|<img height="50" src="./images/amazon_aws-icon.svg">|<img height="50" src="./images/docker-icon.svg">|<img height="50" src="./images/kubernetes-icon.svg">|<img height="50" src="./images/git-scm-icon.svg">|<img height="50" src="./images/w3_html5-icon.svg">|<img height="50" src="./images/w3_css-icon.svg">|<img height="50" src="./images/nodejs-icon.svg">|<img height="50" src="./images/reactjs-icon.svg">|<img height="50" src="./images/mongodb-icon.svg">|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+<hr>
+<p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
- 
-![Ratnesh's github stats](https://github-readme-stats.vercel.app/api?username=Ratnesh2003&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratnesh2003&layout=compact&text_color=daf7dc&bg_color=151515)
 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratnesh2003&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=151515"/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratnesh2003&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"] width="410" /></p>
 
 <hr>
 
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/><img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/><img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/><img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/><img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/><img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/><img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/><img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/><img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/><img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/><img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
