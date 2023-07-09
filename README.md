@@ -46,17 +46,19 @@
 <p align="left">
 <code>
   
-  <code> <img height="50" src="./images/java-icon.svg"></code><code> <img height="50" src="./springio-icon.svg"></code>
-  <code> <img height="50" src="./mysql-icon.svg"></code><code> <img height="50" src="./postgresql-icon.svg"></code>
-  <code> <img height="50" src="./amazon_aws-icon.svg"></code>
-  <code> <img height="50" src="./docker-icon.svg"></code>
-  <code> <img height="50" src="./kubernetes-icon.svg"></code>
-  <code> <img height="50" src="./git-scm-icon.svg"></code>
-  <code> <img height="50" src="./w3_html5-icon.svg"></code>
-  <code> <img height="50" src="./w3_css-icon.svg"></code>
-  <code> <img height="50" src="./nodejs-icon.svg"></code>
-  <code> <img height="50" src="./reactjs-icon.svg"></code>
-  <code> <img height="50" src="./mongodb-icon.svg"></code>
+  <code> <img height="50" src="./images/java-icon.svg"></code>
+  <code> <img height="50" src="./images/springio-icon.svg"></code>
+  <code> <img height="50" src="./images/mysql-icon.svg"></code>
+  <code> <img height="50" src="./images/postgresql-icon.svg"></code>
+  <code> <img height="50" src="./images/amazon_aws-icon.svg"></code>
+  <code> <img height="50" src="./images/docker-icon.svg"></code>
+  <code> <img height="50" src="./images/kubernetes-icon.svg"></code>
+  <code> <img height="50" src="./images/git-scm-icon.svg"></code>
+  <code> <img height="50" src="./images/w3_html5-icon.svg"></code>
+  <code> <img height="50" src="./images/w3_css-icon.svg"></code>
+  <code> <img height="50" src="./images/nodejs-icon.svg"></code>
+  <code> <img height="50" src="./images/reactjs-icon.svg"></code>
+  <code> <img height="50" src="./images/mongodb-icon.svg"></code>
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
