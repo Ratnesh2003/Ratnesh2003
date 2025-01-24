@@ -31,7 +31,7 @@
 <p align="center">
 👦Pursuing my Bachelors Degree in "Computer Science & Engineering". </br>
 💻I enjoy working in Backend development and am currently exploring Microservices.</br>
-👨‍💻I have experience working with Java, SpringBoot.
+👨‍💻I have experience working with Java, SpringBoot & DevOps.
 </p>
 
 <br>
@@ -72,6 +72,6 @@
 
 <div align="center">
   
-<h3> 📄  Please check out my <a href="https://drive.google.com/file/d/1aYKGcg-R6ZJs__KAsUfEZN65V-avnDIK/view?usp=drive_link"> Resume </a> ❤️ for more information about my experience and skills.</h3>
+<h3> 📄  Please check out my <a href="https://rebrand.ly/x75uvxh"> Resume </a> ❤️ for more information about my experience and skills.</h3>
 
 </div>
